@@ -4,3 +4,7 @@ h1{
     border: 2px solid black;
     display: inline-block;
 }
+p{
+    background-color:black;
+    color: white ;
+}
