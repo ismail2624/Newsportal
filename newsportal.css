@@ -5,9 +5,12 @@ h1{
     display: inline-block;
     border-radius: 10px;
 }
-p{
+#biman{
     background-color:black;
     color: white ;
+}
+#metro{
+    background-color: beige;
 }
 footer{
     text-align: center;
