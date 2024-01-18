@@ -3,8 +3,12 @@ h1{
     background-color: antiquewhite;
     border: 2px solid black;
     display: inline-block;
+    border-radius: 10px;
 }
 p{
     background-color:black;
     color: white ;
+}
+footer{
+    text-align: center;
 }
